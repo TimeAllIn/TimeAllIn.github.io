@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on 何乔北</title>
-        <link>https://TimeAllIn.github.io/post/</link>
-        <description>Recent content in Posts on 何乔北</description>
+        <title>日记 on 何乔北</title>
+        <link>https://TimeAllIn.github.io/categories/diary/</link>
+        <description>Recent content in 日记 on 何乔北</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>河桥北</copyright>
-        <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://TimeAllIn.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://TimeAllIn.github.io/categories/diary/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>开篇</title>
         <link>https://TimeAllIn.github.io/p/20260201/</link>
         <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
