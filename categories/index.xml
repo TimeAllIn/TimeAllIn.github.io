@@ -23,6 +23,14 @@
         <guid>https://TimeAllIn.github.io/categories/diary/</guid>
         <description>&lt;img src="https://TimeAllIn.github.io/categories/diary/pexels-rachel-claire-4993240.jpg" alt="Featured image of post 日记" /&gt;</description>
         </item>
+        <item>
+        <title>书摘</title>
+        <link>https://TimeAllIn.github.io/categories/book/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://TimeAllIn.github.io/categories/book/</guid>
+        <description>&lt;img src="https://TimeAllIn.github.io/categories/book/pexels-rubaitulazad-15979826.jpg" alt="Featured image of post 书摘" /&gt;</description>
+        </item>
         
     </channel>
 </rss>
